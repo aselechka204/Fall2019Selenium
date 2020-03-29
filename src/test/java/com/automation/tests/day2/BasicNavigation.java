@@ -47,9 +47,6 @@ public class BasicNavigation {
         System.out.println("Title= "+driver.getTitle());
 
 
-
-
-
         driver.close(); // to close browser
 
     }
